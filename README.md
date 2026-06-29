@@ -145,7 +145,8 @@ Sales-GrossProfit-Dashboard/
 
 ## 📷 Dashboard Preview
 
-> Add a screenshot of the dashboard here.
+<img width="1024" height="538" alt="image (6) (1)" src="https://github.com/user-attachments/assets/d42c2424-6fe2-4216-b0c5-eefdce131834" />
+
 
 ---
 
